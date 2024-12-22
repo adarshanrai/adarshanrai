@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neydham</title>
+    <title>Neydham - A Sacred Retreat</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,65 +11,91 @@
             color: #333;
             margin: 0;
             padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            flex-direction: column;
         }
 
         header {
             background-color: #4CAF50;
             color: white;
-            text-align: center;
             padding: 20px;
+            text-align: center;
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+
+        main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .image-container img {
             width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
-        section {
-            padding: 20px;
-            margin: 20px;
+        .content {
             background-color: #fff;
+            padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            width: 80%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             max-width: 600px;
+            width: 100%;
             text-align: center;
         }
 
-        img {
-            width: 90%;
-            max-width: 600px;
-            
-            background-color: transparent;
-        }
-
-        h2 {
+        .content h2 {
             color: #4CAF50;
+            margin-bottom: 10px;
         }
 
-        p {
-            line-height: 1.6;
+        .content p {
+            line-height: 1.8;
+            font-size: 1em;
         }
 
-        
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>Neydham</h1>
+        Neydham - A Sacred Retreat
     </header>
-    
-    <section>
-        <img src="https://i.pinimg.com/236x/e4/8b/c4/e48bc4cd6d6bea17f4a0cab0a085d06b.jpg" alt="Neydham Image">
-    </section>
 
-    <section>
-        <h2>Description</h2>
-        <p>Neydham is a holy place in the West. It is said that Guru Rimpoche has meditated here.</p>
-        <p>It is also one of the 4 holy capes in Sikkim.</p>
-    </section>
+    <main>
+        <div class="image-container">
+            <img src="https://i.pinimg.com/236x/e4/8b/c4/e48bc4cd6d6bea17f4a0cab0a085d06b.jpg" alt="Neydham Holy Place">
+        </div>
 
-    
+        <div class="content">
+            <h2>About Neydham</h2>
+            <p>Neydham is a revered holy site located in the western region of Sikkim. It is believed that Guru Rimpoche meditated here, making it a place of immense spiritual significance.</p>
+            <p>As one of the four holy caves in Sikkim, it is said that it has connection to the divine.</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Neydham Spiritual Tourism. All rights reserved.</p>
+    </footer>
 </body>
 </html>
