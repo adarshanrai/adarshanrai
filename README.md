@@ -132,14 +132,14 @@ const resonator = {
 
 <br/>
 
-| Echo | Certification | Issuer | Proof |
+| Echo | Certification | Issuer | Credential |
 |:----:|:--------------|:-------|:-----:|
-| ◆ | MongoDB Node.js Developer Path | MongoDB | [View ↗](certificates/mongodb-nodejs-developer-path.pdf) |
-| ◆ | AI For UX Designers | Free Academy.ai | [View ↗](certificates/ai-for-ux-designers.pdf) |
-| ◆ | Basics of UI/UX | Simplilearn | [View ↗](certificates/basics-of-ui-ux.pdf) |
-| ◆ | Figma UI UX Essentials | Lementro | [View ↗](certificates/figma-ui-ux-essentials.pdf) |
-| ◆ | Design Thinking | Simplilearn | [View ↗](certificates/design-thinking.pdf) |
-| ◆ | Mobile Application UI UX Design in Figma | Lementro | [View ↗](certificates/mobile-app-ui-ux-design-in-figma.pdf) |
+| ◆ | MongoDB Node.js Developer Path | MongoDB | [View ↗](mongo.pdf) |
+| ◆ | AI For UX Designers | Free Academy.ai | [View ↗](certificates/AiforUX.pdf) |
+| ◆ | Basics of UI/UX | Simplilearn | [View ↗](certificates/BasicUIUX.pdf) |
+| ◆ | Figma UI UX Essentials | Lementro | [View ↗](certificates/Figma.pdf) |
+| ◆ | Design Thinking | Simplilearn | [View ↗](certificates/designthinking.pdf) |
+| ◆ | Mobile Application UI UX Design in Figma | Lementro | [View ↗](certificates/mobileuiux.pdf) |
 
 </details>
 
