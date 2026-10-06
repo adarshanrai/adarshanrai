@@ -78,7 +78,7 @@ const resonator = {
     "AI For UX Designers (Free Academy.ai)",
     "Basics of UI/UX (Simplilearn)",
     "Figma UI UX Essentials (Lementro)",
-    "Design Thinking for Beginners (Simplilearn)",
+    "Design Thinking (Simplilearn)",
     "Mobile Application UI UX Design in Figma (Lementro)",
   ],
   status: "BCA Student @ Medhavi Skills University | Building UI/UX & frontend projects",
@@ -132,14 +132,14 @@ const resonator = {
 
 <br/>
 
-| Echo | Certification | Issuer |
-|:----:|:--------------|:-------|
-| ◆ | MongoDB Node.js Developer Path | MongoDB |
-| ◆ | AI For UX Designers | Free Academy.ai |
-| ◆ | Basics of UI/UX | Simplilearn |
-| ◆ | Figma UI UX Essentials | Lementro |
-| ◆ | Design Thinking for Beginners | Simplilearn |
-| ◆ | Mobile Application UI UX Design in Figma | Lementro |
+| Echo | Certification | Issuer | Proof |
+|:----:|:--------------|:-------|:-----:|
+| ◆ | MongoDB Node.js Developer Path | MongoDB | [View ↗](certificates/mongodb-nodejs-developer-path.pdf) |
+| ◆ | AI For UX Designers | Free Academy.ai | [View ↗](certificates/ai-for-ux-designers.pdf) |
+| ◆ | Basics of UI/UX | Simplilearn | [View ↗](certificates/basics-of-ui-ux.pdf) |
+| ◆ | Figma UI UX Essentials | Lementro | [View ↗](certificates/figma-ui-ux-essentials.pdf) |
+| ◆ | Design Thinking | Simplilearn | [View ↗](certificates/design-thinking.pdf) |
+| ◆ | Mobile Application UI UX Design in Figma | Lementro | [View ↗](certificates/mobile-app-ui-ux-design-in-figma.pdf) |
 
 </details>
 
@@ -188,6 +188,5 @@ This profile is built from hand-made animated SVGs, so there is no JavaScript an
 
 <img src="assets/footer.svg" width="100%" alt="Signal received. Thanks for tuning in." />
 
-<sub>Fan-made theme inspired by the look and feel of Wuthering Waves. Not affiliated with or endorsed by Kuro Games. All artwork on this page is original.</sub>
 
 </div>
