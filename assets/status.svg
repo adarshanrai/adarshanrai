@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 44" width="270" height="44" role="img">
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="268" height="42" rx="21" fill="#0b1620" stroke="#5FD4E0" stroke-opacity="0.7" stroke-width="1.5"/>
+<circle cx="26" cy="22" r="6" fill="#5FD4E0"><animate attributeName="r" values="5;8;5" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="46" y="28" font-family="'Courier New',Consolas,Menlo,monospace" font-size="15" font-weight="bold" letter-spacing="3" fill="#E8F7F8">OPEN TO WORK</text>
+</svg>

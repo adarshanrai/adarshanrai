@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 76" width="300" height="76" role="img">
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<clipPath id="c"><polygon points="12,2 298,2 298,62 284,74 2,74 2,14"/></clipPath>
+<polygon points="12,2 298,2 298,62 284,74 2,74 2,14" fill="#0b1620" stroke="#5FD4E0" stroke-opacity="0.7" stroke-width="1.5"/>
+<g clip-path="url(#c)"><rect x="-50" y="0" width="40" height="76" fill="#D9B76A" fill-opacity="0.16" transform="skewX(-20)"><animateTransform attributeName="transform" type="translate" values="-50,0;380,0" dur="3s" repeatCount="indefinite" additive="sum"/></rect></g>
+<text x="24" y="34" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="3" fill="#E8F7F8">EMAIL</text>
+<text x="24" y="58" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" letter-spacing="4" fill="#D9B76A">SEND SIGNAL ▸</text>
+<circle cx="272" cy="38" r="8" fill="none" stroke="#5FD4E0"><animate attributeName="r" values="5;14;5" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="272" cy="38" r="3" fill="#5FD4E0"/>
+</svg>

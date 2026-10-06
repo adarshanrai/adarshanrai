@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 270" width="490" height="270" role="img">
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080d"/><stop offset="1" stop-color="#0c2029"/></linearGradient></defs>
+<polygon points="14,2 488,2 488,244 460,268 2,268 2,14" fill="url(#cb)" stroke="#D9B76A" stroke-opacity="0.35" stroke-width="1.5"/>
+<polygon points="14,2 488,2 488,244 460,268 2,268 2,14" fill="none" stroke="#D9B76A" stroke-width="3" stroke-dasharray="140 1340"><animate attributeName="stroke-dashoffset" values="0;-1480" dur="6s" repeatCount="indefinite"/></polygon>
+<text x="30" y="36" font-family="'Courier New',Consolas,Menlo,monospace" font-size="13" letter-spacing="5" fill="#D9B76A">ECHO 02</text>
+<g transform="translate(436,52)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+<polygon points="0,-30 17.4,0 0,30 -17.4,0" fill="#D9B76A" fill-opacity="0.07" stroke="#D9B76A" stroke-width="1.6" filter="url(#glow)"/>
+<polygon points="0,-18.6 10.799999999999999,0 0,18.6 -10.799999999999999,0" fill="none" stroke="#D9B76A" stroke-width="1.2"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14.399999999999999s" repeatCount="indefinite"/>
+<polygon points="-30 0 0,-6.0 30,0 0,6.0" fill="none" stroke="#D9B76A" stroke-opacity="0.6" stroke-width="1"/></g>
+<circle r="2.4" fill="#D9B76A" filter="url(#glow)"><animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/></circle></g>
+<text x="30" y="96" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="1.5" fill="#E8F7F8" filter="url(#glow)">THE DAILY GRIND CAFÉ</text>
+<line x1="30" y1="108" x2="140" y2="108" stroke="#D9B76A" stroke-width="2"/>
+<text x="30" y="136" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9ccd0">A high-fidelity Figma design turned into a</text><text x="30" y="158" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9ccd0">real, responsive website with a café-inspired</text><text x="30" y="180" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9ccd0">identity. Design to code.</text><rect x="30" y="204" width="66" height="26" rx="13" fill="#D9B76A" fill-opacity="0.1" stroke="#D9B76A" stroke-opacity="0.7"/><text x="63.0" y="222" text-anchor="middle" font-family="'Courier New',Consolas,Menlo,monospace" font-size="13" fill="#E8F7F8">Figma</text><rect x="106" y="204" width="66" height="26" rx="13" fill="#D9B76A" fill-opacity="0.1" stroke="#D9B76A" stroke-opacity="0.7"/><text x="139.0" y="222" text-anchor="middle" font-family="'Courier New',Consolas,Menlo,monospace" font-size="13" fill="#E8F7F8">React</text><rect x="182" y="204" width="49" height="26" rx="13" fill="#D9B76A" fill-opacity="0.1" stroke="#D9B76A" stroke-opacity="0.7"/><text x="206.5" y="222" text-anchor="middle" font-family="'Courier New',Consolas,Menlo,monospace" font-size="13" fill="#E8F7F8">CSS</text>
+<text x="30" y="256" font-family="'Courier New',Consolas,Menlo,monospace" font-size="14" font-weight="bold" letter-spacing="3" fill="#D9B76A">OPEN ECHO<tspan dx="8">▸</tspan></text>
+<text x="458" y="256" text-anchor="end" font-family="'Courier New',Consolas,Menlo,monospace" font-size="11" letter-spacing="3" fill="#D9B76A" fill-opacity="0.6">LIVE</text>
+<circle cx="470" cy="252" r="3.5" fill="#D9B76A"><animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/></circle>
+</svg>
